@@ -7,6 +7,7 @@ I was also an ~~obsidian~~ enthusiast as well as a core believer of "linux-ricin
 <br/>
 
 <div style="display:flex;">
-  <img src="https://media.tenor.com/eDv9Yasyi04AAAAi/donkey-kong.gif">
-  <img src="https://media1.tenor.com/m/JIAg1IxpLM4AAAAC/spinning-sanji-one-piece.gif" width="400">
+  <img src="https://media.tenor.com/eDv9Yasyi04AAAAi/donkey-kong.gif" width="200" height="200">
+  <img src="https://media1.tenor.com/m/JIAg1IxpLM4AAAAC/spinning-sanji-one-piece.gif" width="200" height="200">
+  <img src="https://media1.tenor.com/m/1MrJecNevgAAAAAC/c-c-my-beloved.gif" width="200" height="200">
 </div>
