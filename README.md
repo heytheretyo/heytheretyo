@@ -1,7 +1,5 @@
 Most of the "stuff" I build are cool sims, web apps, data aggregators, extensions, iots and the list goes on.
 
-I was also an ~~obsidian~~ enthusiast as well as a core believer of "linux-ricing". should i make osu beatmaps chat??? (nvm)
-
 bring back the css glitch github <'0'>
 
 <br/>
